@@ -1,0 +1,30 @@
+pwd, "Print current working directory",1
+ls, "Short for lists; displays the file and directory names in the current working directory",1
+cd, "Change current working directory",1
+mkdir, "Create a directory",1
+rmdir, "Remove a directory",1
+rm, "Remove files and directories",1
+cp, "Copy files or directories",1
+mv, "Move or rename a file or directory",1
+ssh, "Secure Shell; securely connect to a remote server",2
+scp, "Secure Copy; securely copy files between hosts",2
+man, "Display manual/documentation for a command",2
+g++, "GNU C++ compiler; compile C++ source code",2
+gcc, "GNU Compiler Collection; compile C/C++ source code",2
+make, "Complies different program pieces and builds a final executable",2
+ps, "Process Status; display information about running processes",2
+kill, "Terminate or kill a specified process",2
+top, "Display real-time system process information",2
+who, "Display information about current logged-in users",3
+chmod, "Change file or directory permissions",3
+cat, "Display file contents",3
+alias, "Create shortcut or alternate name for a command",3
+chown, "Change owner of a file or directory",3
+df, "Display disk space usage on file systems",3
+grep, "Search for patterns or regular expressions in text files or streams and display matching lines",3
+echo, "Display text or variables on the terminal",2
+find, "Search for files and directories based on criteria",4
+clear, "Clear the terminal screen",1
+diff, "Compare content of two text files or directories line by line",2
+env, "Display or set environment variables",4
+free, "Display amount of free and used memory in the system",3
