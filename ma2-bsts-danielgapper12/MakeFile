@@ -1,0 +1,5 @@
+out: main
+	g++ -std=c++14 main.o -o main
+
+main: main.cpp
+	g++ -std=c++14 -c main.cpp
